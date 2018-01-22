@@ -1,5 +1,4 @@
 # Walkthrough-Paradigm
----
 
 ### Mission
 A tool for elegantly displaying walkthrough or step by step instructions, Agnostic of the contents.
